@@ -2,7 +2,7 @@
 
 A new Flutter project. Demo complex Scoped model state management.
 
-![](https://media.giphy.com/media/ZwhKxq3Cb41PygEumR/giphy.gif)
+![](https://media.giphy.com/media/L1Y2SXYKzMlw7cO6W/giphy.gif)
 
 
 ## Getting Started
